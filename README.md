@@ -1,0 +1,2 @@
+# fluentcy-assets
+Fluentcy assets
